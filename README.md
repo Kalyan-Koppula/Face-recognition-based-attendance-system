@@ -3,6 +3,9 @@ Python implementation of simple face recognition based attendance system using f
 
 A real time face recognition of students and employees for their attendance. The attendance record is stored on a google sheet over the cloud and updates regarding the attendance is directly sent to the user via gmail. An android app is also provided for the end user.
 
+**How to execute this project**
+Check the detailed step by step guide available at https://www.youtube.com/watch?v=cPm6saam3aY
+
 **Basic project flow****
 
 local db of face and their encodings ------>  face recognition--------> mark attendance in gsheets----->email alerts----->android app
